@@ -33,7 +33,7 @@ In Level 1 the instructor walks through each concept. In Level 2, you receive a 
  
 ## Tools Used 
 - PLC Dojo Level 2 Curriculum 
-- Allen-Bradley RSLogix 500 / Studio 5000 
+- Allen-Bradley RSLogix 500 / RSLogix Emulate 500 / RSLinx Classic
 
 # Hardware Background 
 Before this course I have hands-on Allen-Bradley PLC hardware experience including physical PLC swaps, wiring verification, I/O checkout, and server reconnection on automated sorting equipment in a 24/7 industrial environment. This course is building the software programming competency to complement that hardware foundation. 
