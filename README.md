@@ -32,7 +32,7 @@ In Level 1 the instructor walks through each concept. In Level 2, you receive a 
 
 | [Project 9](./Project-9-Mode-Cycling) | Machine Mode Cycling with Excel Export | Complete | 
 
-| Project 10 | Coming Soon | Upcoming | 
+| [Project 10](./Project-10-Pump-Control) | Pump Control with HOA and Dual-Bit Alarms | Complete | 
  
 ## Tools Used 
 - PLC Dojo Level 2 Curriculum 
